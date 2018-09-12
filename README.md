@@ -15,4 +15,4 @@
 
 ​           build -> config -> index.js -> build{} -> assetsPublicPath: './'
 
-![assetsPublicPath: './'](https://github.com/clara222/shareH5/blob/master/src/assets/logo.png)
+![assetsPublicPath: './'](https://github.com/clara222/shareH5/blob/master/src/assets/1.png)
